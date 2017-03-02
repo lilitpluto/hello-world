@@ -1,2 +1,5 @@
 # hello-world
-First repository
+Hi!!!
+I'm Lilit.
+I'm a begginer.
+Nice to meet you.
